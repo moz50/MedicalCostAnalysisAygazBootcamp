@@ -1,5 +1,4 @@
-# MedicalCostAnalysis
-You're welcome! Thank you for your interest in my assistance. As you mentioned, in the beginning, after running your project in Colab, you need to upload the "insurance.csv" file from the Files section. This file serves as the data source for your project. If you have any more questions or need further help, feel free to ask. Best of luck with your project!
+# MedicalCostAnalysis Thank you for your interest in my assistance. As you mentioned, in the beginning, after running your project in Colab, you need to upload the "insurance.csv" file from the Files section. This file serves as the data source for your project. If you have any more questions or need further help, feel free to ask. Best of luck with your project!
 
 I will have shared this file on GitHub under the repository "mozproject." Please download it from there. If you are unable to download, I will provide you with the original source of the file. Then, you can upload it to Colab.
 
